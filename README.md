@@ -18,7 +18,7 @@ Alice matas tre gånger dagligen enligt följande:
 3. **Kvällsmåltid:** Cirka kl. 21. Servera maten 30-60 minuter före läggdags för att hjälpa henne lugna ner sig. Ge henne också en stor matsked av maten.
 
 # Sömn
-Även om katter är nattdjur, kan de sova under dagtid. Genomsnittligt sover en katt upp till 16 timmar dagligen. För att hjälpa Alice ha en lugn natt rekommenderar vi att låta henne sova i sovrummet. Hon brukar tvätta sig före sömnen, vilket tar cirka 20 minuter.
+Även om katter är nattdjur, kan de sova under natten. Genomsnittligt sover en katt upp till 16 timmar dagligen. För att hjälpa Alice (ocher ) till att ha en lugn natt rekommenderar vi att låta henne sova i sovrummet. Hon brukar tvätta sig före sömnen, vilket tar cirka 20 minuter.
 
 ## Hur man lockar in henne i sovrummet
 - **Rop och klappa:** Försök kalla på henne och klappa på sängen. Hon kan förstå signalen och komma in.

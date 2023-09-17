@@ -7,6 +7,9 @@ Denna guide är avsedd för dem som ska ta hand om vår katt, Alice. Den ger vä
 - [Beteende](#beteende)
   - [Mysa med Alice](#mysa-med-alice)
   - [Lek med Alice](#lek-med-alice)
+- [Säkerhet](#säkerhet)
+  - [Inomhus](#inomhus)
+  - [Balkong](#balkong)
 
 # Mat
 Alice matas tre gånger dagligen enligt följande:
@@ -33,3 +36,18 @@ Alice kommer till dig när hon känner för det. Närma dig inte för hastigt. I
 ## Lek med Alice
 - **Snörlekar:** Ett enkelt snöre kan vara väldigt roligt för henne. Du kan antingen svinga det ovanför henne eller dra det på golvet för att fånga hennes uppmärksamhet.
 - **Laserpekare:** Om du har en laserpekare kan det också vara ett utmärkt sätt att leka och aktivera henne.
+
+# Säkerhet
+Det är viktigt att se till att Alice känner sig säker och trygg i sin miljö, och att vi också ser till att undvika potentiella faror för henne. 
+
+## Inomhus 
+- **Giftiga växter:** Många krukväxter och blommor kan vara giftiga för katter. Se till att hon inte äter av dessa. Hon brukar hålla sig borta från dom, men kan tugga på fallna löv.
+- **Trådar och snören:** Även om ett snöre kan vara ett roligt leksak för Alice, se till att inte lämna dem utan uppsikt, då hon kan svälja eller trassla in sig i dem.
+- **Kemikalier och mediciner:** Se till att hushållskemikalier, mediciner och andra potentiellt skadliga ämnen förvaras säkert borta från Alice.
+
+## Balkong
+Många katter njuter av att vistas på balkonger, men det finns specifika säkerhetsåtgärder man bör tänka på:
+
+- **Fallrisk:** Även om katter har en inbyggd reflex att landa på sina fötter, kan fall från höga höjder vara farliga eller till och med dödliga. Se till att balkongen har ett säkert nät eller skydd som hindrar Alice från att klättra eller falla. 
+
+- **Begränsad åtkomst:** Om du inte kan säkra balkongen helt, begränsa Alice's tillgång till den. Låt henne bara vara där när hon är under uppsikt.
